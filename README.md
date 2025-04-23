@@ -6,9 +6,7 @@ This repository contains various Blender projects and assets, including 3D model
 
 - **BLACK HOLE**: A Blender project related to a black hole simulation or theme.
 - **GEM**: A Blender project featuring gem-related 3D models or textures.
-- **textures**: Contains textures used in various Blender scenes.
-- **TEMPLE.blend**: The main Blender scene file for the temple project.
-- **TEMPLE.blend1**: Backup or previous version of the `TEMPLE.blend` file.
+- **TEMPLE**: A Blender project related to a temple made using minecraft and imported to blender.
 
 ## LICENSE
 MIT License
