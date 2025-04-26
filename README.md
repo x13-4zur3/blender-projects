@@ -37,3 +37,4 @@ SOFTWARE.
 
    ```bash
    git clone https://github.com/x13-4zur3/blender-projects.git
+   ```
